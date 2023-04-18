@@ -13,7 +13,7 @@ The methods available are:
     public void setProperty(java.lang.String name, java.lang.Object value)
     public java.util.List<com.sap.gateway.ip.core.customdev.util.SoapHeader> getSoapHeaders()
     public void setSoapHeaders(java.util.List<com.sap.gateway.ip.core.customdev.util.SoapHeader> soapHeaders) 
-       public void clearSoapHeaders() Test Raymond Adriaan from vs
+       public void clearSoapHeaders() Test Raymond Adriaan from vs url-encoded
  */
 import com.sap.gateway.ip.core.customdev.util.Message;
 import java.util.HashMap;
